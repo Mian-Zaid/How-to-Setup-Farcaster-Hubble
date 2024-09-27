@@ -188,3 +188,5 @@ yarn start --eth-mainnet-rpc-url <your ETH-mainnet-RPC-URL> --l2-rpc-url <your O
 ```
 yarn start --eth-mainnet-rpc-url <your ETH-mainnet-RPC-URL> --l2-rpc-url <your Optimism-L2-RPC-URL> --hub-operator-fid <your FID> -n 1 -b /dns/hoyt.farcaster.xyz/tcp/2282
 ```
+
+Now this process of syncing can take several hours depending on the Internet speed
